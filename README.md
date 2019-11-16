@@ -26,7 +26,7 @@ git clone https://github.com/mansoir/ManSpy.git
 
 ## Authors
 
-* **Mansour Eddih** - *Initial work* - [PurpleBooth](https://github.com/mansoir/ManSpy.git)
+* **Mansour Eddih** - *Initial work* - [ManSpy](https://github.com/mansoir/ManSpy.git)
 
 Voir aussi la liste des [contributeurs] (https://github.com/mansoir/ManSpy/graphs/contributors) ayant participé à ce projet.
 
