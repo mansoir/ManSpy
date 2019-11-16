@@ -32,4 +32,4 @@ Voir aussi la liste des [contributeurs] (https://github.com/mansoir/ManSpy/graph
 
 ## License
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE.md] (LICENSE.md) pour plus de détails.
+Ce projet est sous licence MIT - voir le fichier [LICENSE.md] (LICENSE.md)pour plus de détails.
