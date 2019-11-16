@@ -19,3 +19,17 @@ ParrotOS...
 ```
 git clone https://github.com/mansoir/ManSpy.git
 ```
+
+## Built With
+
+* [Python](https://docs.python.org/fr/3/) - langage de programmation utilisé
+
+## Authors
+
+* **Mansour Eddih** - *Initial work* - [PurpleBooth](https://github.com/mansoir/ManSpy.git)
+
+Voir aussi la liste des [contributeurs] (https://github.com/mansoir/ManSpy/graphs/contributors) ayant participé à ce projet.
+
+## License
+
+Ce projet est sous licence MIT - voir le fichier [LICENSE.md] (LICENSE.md) pour plus de détails.
