@@ -28,7 +28,7 @@ git clone https://github.com/mansoir/ManSpy.git
 
 * **Mansour Eddih** - *Initial work* - [ManSpy](https://github.com/mansoir/ManSpy.git)
 
-Voir aussi la liste des [contributeurs] (https://github.com/mansoir/ManSpy/graphs/contributors) ayant participé à ce projet.
+Voir aussi la liste des [contributeurs] (contributors) ayant participé à ce projet.
 
 ## License
 
